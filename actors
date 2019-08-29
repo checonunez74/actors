@@ -1,0 +1,25 @@
+{
+ "actors": [
+   {
+     "name": "Brad Pitt", 
+     "description": "William Bradley 'Brad' Pitt is an American actor and film producer. he has receive a Golden Award, and three Academy Award nominations in acting categories",
+     "dob": "December 18, 1963",
+     "country": "United States",
+     "height": "1.80 m",
+     "spouse": "Jennifer Aniston",
+     "children": "Shiloh Novel Joliet-Pitt, Maddox Chivan Jolie-Pitt",
+     "image": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
+   },
+   {
+     "name": "Tom Cruise",
+     "description": "Tom Cruise is an American film actor and producer. He has been nominated for three Academy Awards and has won three Golden Globe Awards. He started his career at age 19 in th 1981 film Endless Love.",
+     "dob": "July 3, 1962",
+     "country": "United States",
+     "height": "1.70 m",
+     "spouse": "Katied Holmes",
+     "children": "Suri Cruise, Isabelle Jane Cruise, Conor Cruise",
+     "image": http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+   }
+  ]
+}
+
